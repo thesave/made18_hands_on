@@ -21,4 +21,4 @@ Brief outline of the content of the repo:
   - definition of a "complex" microservice: a circuit breaker
   - composition of the circuit breaker as a service in the calculator
  - 004_IoT
-  - example of usage of IoT-related protocols in Jolie: IoT-devices as microservices
+  - example of usage of IoT-related protocols in Jolie: IoT-devices as microservices. To execute the code, use the beta version of Jolie for IoT, called [JIOT](http://www.cs.unibo.it/projects/jolie/jiot.html)
